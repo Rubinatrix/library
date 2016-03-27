@@ -1,13 +1,19 @@
 # library
-Розробити веб-застосунок: «Онлайн Бібліотека». В системі існує три типи користувачів: гість(не авторизований користувач) , звичайний користувач та адміністратор. 
-- Звичайні користувачі можуть здіснювати пошук книг, додавати їх в свій список обраних книг, та завантажувати їх. 
-- Гості можуть шукати книги та отримувати інформацію про книгу, але не мають можливості завантажувати. Гості можуть зареєструватися в системі. 
-- Адміністратори мають всі привілегії звичайного користувача, але крім цього можуть видаляти, редагувати та додавати книги в систему.
-Веб-застосунок включає такі сторінки:
-- Сторінка авторизації користувачів. 
-- Сторінка реєстрації користувачів. 
-- Сторінка з переліком всіх книжок, з можливістю пошуку за назвою книги, автором, жанром. 
-- Сторінка з інформацією про книгу, та можливістю завантажити її в pdf форматі. 
-- Сторінка користувача з персональною інформацією, та переліком обраних книг.
-- Сторінка для додавання нової книги в систему. 
-В реалізації обов’язково використати Servlet API та JPA.
+
+Web application "Online library".
+
+1). There are three user types: guest (not authorized), regular user and administrator.
+
+2). Regular users are able to look for book, add it to his favorites list, and to download it.
+
+3). Guests are able to look for book, get information about it, but not able to download. Guests can sing up in the library.
+
+4). Administrators are regular users, but they also are able to remove, edit or add books to library.
+
+5). Web application contains the following pages:
+- Login page
+- User registration page
+- Page with a list of all books
+- Page with information about a book, with the possibility to download it
+- Personal user page, with favorites book list
+- Page for adding or editing book
