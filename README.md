@@ -4,9 +4,9 @@ Web application "Online library".
 
 1). There are three user types: guest (not authorized), regular user and administrator.
 
-2). Regular users are able to look for book, add it to his favorites list, and to download it.
+2). Regular users are able to look for a book, add it to his favorites list, and to download it.
 
-3). Guests are able to look for book, get information about it, but not able to download. Guests can register themselves at the library.
+3). Guests are able to look for a book, get information about it, but not able to download. Guests can register themselves at the library.
 
 4). Administrators are regular users, but they also are able to remove, edit or add books to library.
 
