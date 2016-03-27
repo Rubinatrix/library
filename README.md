@@ -6,7 +6,7 @@ Web application "Online library".
 
 2). Regular users are able to look for book, add it to his favorites list, and to download it.
 
-3). Guests are able to look for book, get information about it, but not able to download. Guests can sing up in the library.
+3). Guests are able to look for book, get information about it, but not able to download. Guests can sing up at the library.
 
 4). Administrators are regular users, but they also are able to remove, edit or add books to library.
 
